@@ -1,7 +1,6 @@
 ### Hi! I'm Olugbenga Ajayi, a Software Engineer. 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an eCommerce project
 - 🌱 I’m currently learning **TypeScript** and **Next.js**
