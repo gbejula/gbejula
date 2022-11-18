@@ -1,4 +1,4 @@
-### Hi! I'm Olugbenga Ajayi, a Software Engineer. 👋
+### Hi! I'm Olugbenga Ajayi, a DevOps Engineer with frontend skills. 👋
 
 
 
